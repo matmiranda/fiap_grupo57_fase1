@@ -1,0 +1,6 @@
+@fiap_grupo58_fase1_HostAddress = http://localhost:5216
+
+GET {{fiap_grupo58_fase1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
