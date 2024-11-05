@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.7924" branch-rate="0.23800000000000002" version="1.9" timestamp="1730777055" lines-covered="626" lines-valid="790" branches-covered="30" branches-valid="126">
+<coverage line-rate="0.8025" branch-rate="0.23800000000000002" version="1.9" timestamp="1730821882" lines-covered="626" lines-valid="780" branches-covered="30" branches-valid="126">
   <sources>
     <source>C:\Users\matmi\</source>
   </sources>
   <packages>
-    <package name="fiap_grupo57_fase1" line-rate="0.5446" branch-rate="0.21660000000000001" complexity="179">
+    <package name="fiap_grupo57_fase1" line-rate="0.5603" branch-rate="0.21660000000000001" complexity="179">
       <classes>
-        <class name="Program" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Program.cs" line-rate="0" branch-rate="0" complexity="2">
+        <class name="Program" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Program.cs" line-rate="0" branch-rate="0" complexity="2">
           <methods>
             <method name="&lt;Main&gt;$" signature="(System.String[])" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -80,7 +80,7 @@
             <line number="52" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="0.8571" complexity="15">
+        <class name="fiap_grupo57_fase1.Services.ContatosService" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="0.8571" complexity="15">
           <methods>
             <method name="ObterContatos" signature="(System.Int32,System.String)" line-rate="1" branch-rate="0.8571" complexity="14">
               <lines>
@@ -172,7 +172,7 @@
             <line number="24" hits="17" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;AdicionarContato&gt;d__5" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;AdicionarContato&gt;d__5" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="4">
               <lines>
@@ -224,7 +224,7 @@
             <line number="79" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;AtualizarContato&gt;d__6" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;AtualizarContato&gt;d__6" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="4">
               <lines>
@@ -280,7 +280,7 @@
             <line number="102" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ExcluirContato&gt;d__7" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ExcluirContato&gt;d__7" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -298,7 +298,7 @@
             <line number="107" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ObterContatoPorId&gt;d__3" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ObterContatoPorId&gt;d__3" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -316,7 +316,7 @@
             <line number="31" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ValidaIdContato&gt;d__8" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
+        <class name="fiap_grupo57_fase1.Services.ContatosService/&lt;ValidaIdContato&gt;d__8" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Services\ContatosService.cs" line-rate="1" branch-rate="1" complexity="4">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="4">
               <lines>
@@ -354,7 +354,7 @@
             <line number="115" hits="4" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="ObterPorDDD" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -398,7 +398,7 @@
             <line number="20" hits="5" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Adicionar&gt;d__3" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Adicionar&gt;d__3" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -416,7 +416,7 @@
             <line number="26" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Atualizar&gt;d__9" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Atualizar&gt;d__9" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -434,7 +434,7 @@
             <line number="63" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ContatoExiste&gt;d__4" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ContatoExiste&gt;d__4" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -452,7 +452,7 @@
             <line number="32" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ContatoExistePorId&gt;d__5" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ContatoExistePorId&gt;d__5" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -470,7 +470,7 @@
             <line number="38" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Excluir&gt;d__10" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;Excluir&gt;d__10" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -488,7 +488,7 @@
             <line number="69" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ObterContatoPorId&gt;d__6" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.ContatosRepository/&lt;ObterContatoPorId&gt;d__6" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\ContatosRepository.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -506,7 +506,7 @@
             <line number="44" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Query" signature="(System.Data.IDbConnection,System.String,System.Object)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -522,7 +522,7 @@
             <line number="22" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;ExecuteAsync&gt;d__3" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;ExecuteAsync&gt;d__3" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -538,7 +538,7 @@
             <line number="27" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;QueryFirstOrDefaultAsync&gt;d__1`1" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;QueryFirstOrDefaultAsync&gt;d__1`1" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -554,7 +554,7 @@
             <line number="17" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;QuerySingleAsync&gt;d__0`1" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Repositories.DapperWrapper/&lt;QuerySingleAsync&gt;d__0`1" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Repositories\DapperWrapper.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -570,7 +570,7 @@
             <line number="12" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Utils.ObterRegiaoPorDDD" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Utils\ObterRegiaoPorDDD.cs" line-rate="0" branch-rate="0" complexity="90">
+        <class name="fiap_grupo57_fase1.Models.Utils.ObterRegiaoPorDDD" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Utils\ObterRegiaoPorDDD.cs" line-rate="0" branch-rate="0" complexity="90">
           <methods>
             <method name="ObtemRegiaoPorDDD" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="90">
               <lines>
@@ -622,7 +622,7 @@
             <line number="91" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Responses.ContatosGetResponse" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ContatosGetResponse.cs" line-rate="1" branch-rate="1" complexity="6">
+        <class name="fiap_grupo57_fase1.Models.Responses.ContatosGetResponse" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ContatosGetResponse.cs" line-rate="1" branch-rate="1" complexity="6">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -664,7 +664,7 @@
             <line number="17" hits="3" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Responses.ContatosPostResponse" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ContatosPostResponse.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Models.Responses.ContatosPostResponse" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ContatosPostResponse.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -676,7 +676,7 @@
             <line number="5" hits="3" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Responses.ExceptionResponse" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ExceptionResponse.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Models.Responses.ExceptionResponse" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Responses\ExceptionResponse.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="get_Message" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -688,7 +688,7 @@
             <line number="5" hits="4" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Requests.ContatosPostRequest" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Requests\ContatosPostRequest.cs" line-rate="1" branch-rate="1" complexity="5">
+        <class name="fiap_grupo57_fase1.Models.Requests.ContatosPostRequest" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Requests\ContatosPostRequest.cs" line-rate="1" branch-rate="1" complexity="5">
           <methods>
             <method name="get_Nome" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -724,7 +724,7 @@
             <line number="23" hits="7" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Requests.ContatosPutRequest" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Requests\ContatosPutRequest.cs" line-rate="1" branch-rate="1" complexity="6">
+        <class name="fiap_grupo57_fase1.Models.Requests.ContatosPutRequest" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Requests\ContatosPutRequest.cs" line-rate="1" branch-rate="1" complexity="6">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -766,7 +766,7 @@
             <line number="25" hits="4" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Models.Entities.ContatoEntity" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Entities\ContatoEntity.cs" line-rate="1" branch-rate="1" complexity="6">
+        <class name="fiap_grupo57_fase1.Models.Entities.ContatoEntity" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Models\Entities\ContatoEntity.cs" line-rate="1" branch-rate="1" complexity="6">
           <methods>
             <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -808,7 +808,7 @@
             <line number="12" hits="3" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Mappers.ContatoMapper" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Mappers\ContatoMapper.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Mappers.ContatoMapper" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Mappers\ContatoMapper.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="ToEntity" signature="(fiap_grupo57_fase1.Models.Requests.ContatosPostRequest)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -864,7 +864,7 @@
             <line number="32" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.CustomException" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\CustomException.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.CustomException" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\CustomException.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="get_StatusCode" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -888,7 +888,7 @@
             <line number="12" hits="13" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.ExceptionMiddleware" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\ExceptionMiddleware.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.ExceptionMiddleware" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\ExceptionMiddleware.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="HandleCustomExceptionAsync" signature="(Microsoft.AspNetCore.Http.HttpContext,fiap_grupo57_fase1.Infrastructures.Excpetion.CustomException)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -940,7 +940,7 @@
             <line number="14" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.ExceptionMiddleware/&lt;InvokeAsync&gt;d__2" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\ExceptionMiddleware.cs" line-rate="0.9229999999999999" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Infrastructures.Excpetion.ExceptionMiddleware/&lt;InvokeAsync&gt;d__2" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Excpetion\ExceptionMiddleware.cs" line-rate="0.9229999999999999" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="0.9229999999999999" branch-rate="1" complexity="1">
               <lines>
@@ -976,7 +976,7 @@
             <line number="30" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Infrastructures.Data.ContatoContext" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Data\ContatoContext.cs" line-rate="0" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Infrastructures.Data.ContatoContext" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Infrastructures\Data\ContatoContext.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
             <method name="get_Contatos" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -994,7 +994,7 @@
             <line number="8" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Helpers.ValidatorHelper" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Helpers\ValidatorHelper.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Helpers.ValidatorHelper" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Helpers\ValidatorHelper.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="Validar" signature="(System.Object)" line-rate="1" branch-rate="1" complexity="2">
               <lines>
@@ -1026,7 +1026,7 @@
             <line number="18" hits="7" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Controllers.ContatosController" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Controllers.ContatosController" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="GetContatos" signature="(System.Int32,System.String)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1054,7 +1054,7 @@
             <line number="19" hits="5" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;DeleteContato&gt;d__6" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;DeleteContato&gt;d__6" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1072,7 +1072,7 @@
             <line number="100" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;GetContatoById&gt;d__2" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;GetContatoById&gt;d__2" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1088,7 +1088,7 @@
             <line number="33" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;PostContato&gt;d__4" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;PostContato&gt;d__4" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1104,7 +1104,7 @@
             <line number="67" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;PutContato&gt;d__5" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1.Controllers.ContatosController/&lt;PutContato&gt;d__5" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Controllers\ContatosController.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1122,7 +1122,7 @@
             <line number="84" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1.Configurations.SwaggerConfig" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1\Configurations\SwaggerConfig.cs" line-rate="0" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1.Configurations.SwaggerConfig" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1\Configurations\SwaggerConfig.cs" line-rate="0" branch-rate="1" complexity="2">
           <methods>
             <method name="AddSwaggerConfiguration" signature="(Microsoft.Extensions.DependencyInjection.IServiceCollection)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -1203,24 +1203,14 @@
                 <line number="85" hits="0" branch="False" />
                 <line number="86" hits="0" branch="False" />
                 <line number="87" hits="0" branch="False" />
-                <line number="88" hits="0" branch="False" />
-                <line number="89" hits="0" branch="False" />
-                <line number="90" hits="0" branch="False" />
-                <line number="91" hits="0" branch="False" />
-                <line number="92" hits="0" branch="False" />
-                <line number="93" hits="0" branch="False" />
-                <line number="94" hits="0" branch="False" />
-                <line number="95" hits="0" branch="False" />
-                <line number="96" hits="0" branch="False" />
-                <line number="97" hits="0" branch="False" />
               </lines>
             </method>
             <method name="UseSwaggerConfiguration" signature="(Microsoft.AspNetCore.Builder.IApplicationBuilder)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
-                <line number="100" hits="0" branch="False" />
-                <line number="101" hits="0" branch="False" />
-                <line number="102" hits="0" branch="False" />
-                <line number="103" hits="0" branch="False" />
+                <line number="90" hits="0" branch="False" />
+                <line number="91" hits="0" branch="False" />
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
               </lines>
             </method>
           </methods>
@@ -1302,20 +1292,10 @@
             <line number="85" hits="0" branch="False" />
             <line number="86" hits="0" branch="False" />
             <line number="87" hits="0" branch="False" />
-            <line number="88" hits="0" branch="False" />
-            <line number="89" hits="0" branch="False" />
             <line number="90" hits="0" branch="False" />
             <line number="91" hits="0" branch="False" />
             <line number="92" hits="0" branch="False" />
             <line number="93" hits="0" branch="False" />
-            <line number="94" hits="0" branch="False" />
-            <line number="95" hits="0" branch="False" />
-            <line number="96" hits="0" branch="False" />
-            <line number="97" hits="0" branch="False" />
-            <line number="100" hits="0" branch="False" />
-            <line number="101" hits="0" branch="False" />
-            <line number="102" hits="0" branch="False" />
-            <line number="103" hits="0" branch="False" />
           </lines>
         </class>
       </classes>
@@ -1334,7 +1314,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="14">
+        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="14">
           <methods>
             <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1682,7 +1662,7 @@
             <line number="306" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;AdicionarContato_ContatoValido_DeveRetornarId&gt;d__13" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;AdicionarContato_ContatoValido_DeveRetornarId&gt;d__13" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1714,7 +1694,7 @@
             <line number="199" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;AtualizarContato_ContatoValido_DeveAtualizarContato&gt;d__16" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;AtualizarContato_ContatoValido_DeveAtualizarContato&gt;d__16" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
               <lines>
@@ -1758,7 +1738,7 @@
             <line number="252" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;ExcluirContato_IdValido_DeveExcluirContato&gt;d__20" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="0.5" complexity="2">
+        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;ExcluirContato_IdValido_DeveExcluirContato&gt;d__20" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="0.5" complexity="2">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
               <lines>
@@ -1794,7 +1774,7 @@
             <line number="323" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;ObterContatoPorId_IdValido_DeveRetornarContato&gt;d__4" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Services.ContatosServiceTests/&lt;ObterContatoPorId_IdValido_DeveRetornarContato&gt;d__4" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Services\ContatosServiceTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1824,7 +1804,7 @@
             <line number="45" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1898,7 +1878,7 @@
             <line number="112" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;Adicionar_ContatoValido_RetornaId&gt;d__4" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;Adicionar_ContatoValido_RetornaId&gt;d__4" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1922,7 +1902,7 @@
             <line number="41" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;ContatoExistePorId_ContatoExistente_RetornaTrue&gt;d__6" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;ContatoExistePorId_ContatoExistente_RetornaTrue&gt;d__6" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1946,7 +1926,7 @@
             <line number="71" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;ContatoExiste_ContatoExistente_RetornaTrue&gt;d__5" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Repositories.ContatosRepositoryTests/&lt;ContatoExiste_ContatoExistente_RetornaTrue&gt;d__5" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Repositories\ContatosRepositoryTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -1970,7 +1950,7 @@
             <line number="56" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Models.ContatosPostRequestTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Models\ContatosPostRequestTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="fiap_grupo57_fase1_test.Models.ContatosPostRequestTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Models\ContatosPostRequestTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="ContatosPostRequest_ValidModel_DoesNotReturnValidationErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2050,7 +2030,7 @@
             <line number="61" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Models.ContatosPutRequestTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Models\ContatosPutRequestTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="fiap_grupo57_fase1_test.Models.ContatosPutRequestTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Models\ContatosPutRequestTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="ContatosPutRequest_ValidModel_DoesNotReturnValidationErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2134,7 +2114,7 @@
             <line number="58" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2168,7 +2148,7 @@
             <line number="41" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests/&lt;InvokeAsync_GenericException_ReturnsInternalServerErrorResponse&gt;d__5" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests/&lt;InvokeAsync_GenericException_ReturnsInternalServerErrorResponse&gt;d__5" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2196,7 +2176,7 @@
             <line number="65" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests/&lt;InvokeAsync_ShouldHandleCustomException&gt;d__4" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Infrastructures.ExceptionMiddlewareTests/&lt;InvokeAsync_ShouldHandleCustomException&gt;d__4" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Infrastructures\ExceptionMiddlewareTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2226,7 +2206,7 @@
             <line number="47" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Helpers.ValidatorHelperTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Helpers\ValidatorHelperTests.cs" line-rate="1" branch-rate="1" complexity="2">
+        <class name="fiap_grupo57_fase1_test.Helpers.ValidatorHelperTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Helpers\ValidatorHelperTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="Validar_ContatoInvalido_ThrowsCustomException" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2294,7 +2274,7 @@
             <line number="48" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="0.5" complexity="5">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="0.5" complexity="5">
           <methods>
             <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2386,7 +2366,7 @@
             <line number="143" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;&gt;c__DisplayClass7_0" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;&gt;c__DisplayClass7_0" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="&lt;GetContatoById_ShouldReturnOk_WhenContatoExists&gt;b__1" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2404,7 +2384,7 @@
             <line number="107" hits="2" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;DeleteContato_ShouldReturnNoContent_WhenDeleteIsSuccessful&gt;d__9" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;DeleteContato_ShouldReturnNoContent_WhenDeleteIsSuccessful&gt;d__9" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2428,7 +2408,7 @@
             <line number="138" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;GetContatoById_ShouldReturnOk_WhenContatoExists&gt;d__7" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;GetContatoById_ShouldReturnOk_WhenContatoExists&gt;d__7" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2458,7 +2438,7 @@
             <line number="108" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;PostContato_ReturnsOkResult_WithContatoResponse&gt;d__6" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;PostContato_ReturnsOkResult_WithContatoResponse&gt;d__6" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -2502,7 +2482,7 @@
             <line number="86" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;PutContato_ShouldReturnNoContent_WhenUpdateIsSuccessful&gt;d__8" filename="source\repos\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="fiap_grupo57_fase1_test.Controllers.ContatosControllerTests/&lt;PutContato_ShouldReturnNoContent_WhenUpdateIsSuccessful&gt;d__8" filename="OneDrive\Documentos\github\fiap_grupo57_fase1\fiap_grupo57_fase1_test\Controllers\ContatosControllerTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

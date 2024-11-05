@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fiap_grupo57_fase1_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+496c41ebd35cf3fdb78cac7054a7dc3981b61e11")]
 [assembly: System.Reflection.AssemblyProductAttribute("fiap_grupo57_fase1_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fiap_grupo57_fase1_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

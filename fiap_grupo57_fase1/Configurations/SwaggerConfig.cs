@@ -13,7 +13,7 @@ namespace fiap_grupo57_fase1.Configurations
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "Grupo 58 - Fase 1",
+                    Title = "Grupo 57 - Fase 1",
                     Version = "v1",
                     Description = "Uma API para gerenciar contatos regionais"
                 });
@@ -43,11 +43,6 @@ namespace fiap_grupo57_fase1.Configurations
                         {
                             Type = "integer",
                             Example = new OpenApiInteger(11)
-                        },
-                        ["regiao"] = new OpenApiSchema
-                        {
-                            Type = "string",
-                            Example = new OpenApiString("Sudeste")
                         }
                     }
                 });
@@ -80,11 +75,6 @@ namespace fiap_grupo57_fase1.Configurations
                         {
                             Type = "integer",
                             Example = new OpenApiInteger(11)
-                        },
-                        ["regiao"] = new OpenApiSchema
-                        {
-                            Type = "string",
-                            Example = new OpenApiString("Sudeste")
                         }
                     }
                 });

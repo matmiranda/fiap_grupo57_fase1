@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kWXGQC5Ci1k=",
+  "dgSpecHash": "wQSnhKq56sI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matmi\\source\\repos\\fiap_grupo57_fase1\\fiap_grupo57_fase1_test\\fiap_grupo57_fase1_test.csproj",
+  "projectFilePath": "C:\\Users\\matmi\\OneDrive\\Documentos\\github\\fiap_grupo57_fase1\\fiap_grupo57_fase1_test\\fiap_grupo57_fase1_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matmi\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\matmi\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

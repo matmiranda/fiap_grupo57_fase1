@@ -1243,11 +1243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matmi\\source\\repos\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\fiap_grupo57_fase1.csproj",
+      "projectUniqueName": "C:\\Users\\matmi\\OneDrive\\Documentos\\github\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\fiap_grupo57_fase1.csproj",
       "projectName": "fiap_grupo57_fase1",
-      "projectPath": "C:\\Users\\matmi\\source\\repos\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\fiap_grupo57_fase1.csproj",
+      "projectPath": "C:\\Users\\matmi\\OneDrive\\Documentos\\github\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\fiap_grupo57_fase1.csproj",
       "packagesPath": "C:\\Users\\matmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matmi\\source\\repos\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\obj\\",
+      "outputPath": "C:\\Users\\matmi\\OneDrive\\Documentos\\github\\fiap_grupo57_fase1\\fiap_grupo57_fase1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
