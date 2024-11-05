@@ -49,6 +49,8 @@ fiap_grupo57_fase1_test/
 
 2 - Script para criar tabela no mysql:
 
+```
+
 CREATE TABLE dbmatheus.`contatos` (
   `Id` int NOT NULL AUTO_INCREMENT,
   `Nome` varchar(100) NOT NULL,
@@ -66,3 +68,5 @@ CREATE TABLE dbmatheus.`regioes` (
   `Nome` varchar(20) NOT NULL,
   PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+```
