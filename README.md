@@ -2,6 +2,8 @@
 
 1 - Estrutura do projeto
 
+´´´
+
 fiap_grupo57_fase1/
 ├── Controllers
 │   └── ContatosController.cs
@@ -43,6 +45,8 @@ fiap_grupo57_fase1_test/
 └── IntegrationTests
     └── Controllers
         └── ContatosControllerTests.cs
+´´´
+
 
 
 
