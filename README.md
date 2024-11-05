@@ -2,7 +2,7 @@
 
 1 - Estrutura do projeto
 
-´´´
+```
 
 fiap_grupo57_fase1/
 ├── Controllers
@@ -45,10 +45,7 @@ fiap_grupo57_fase1_test/
 └── IntegrationTests
     └── Controllers
         └── ContatosControllerTests.cs
-´´´
-
-
-
+```
 
 2 - Script para criar tabela no mysql:
 
