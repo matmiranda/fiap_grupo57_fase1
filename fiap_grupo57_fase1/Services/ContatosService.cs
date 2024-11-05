@@ -96,6 +96,9 @@ namespace fiap_grupo57_fase1.Services
                 contato.Regiao = regiao;
             }
 
+            if (contato.Regiao == null)
+                contato.Regiao = contatoAux.Regiao;
+
             ContatoEntity mapper = ContatoMapper.ToEntity(contato);
 
             await _contatosRepository.Atualizar(mapper);
