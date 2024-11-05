@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\fiap_grupo57_fase1.props" />
+</Project>

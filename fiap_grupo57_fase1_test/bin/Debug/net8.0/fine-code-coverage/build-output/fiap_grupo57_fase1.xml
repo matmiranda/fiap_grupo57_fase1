@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>fiap_grupo57_fase1</name>
+    </assembly>
+    <members>
+        <member name="M:fiap_grupo57_fase1.Controllers.ContatosController.GetContatoById(System.Int32)">
+            <summary>
+            Obtém um contato pelo ID.
+            </summary>
+            <param name="id">O ID do contato.</param>
+            <returns>O contato correspondente ao ID.</returns>
+        </member>
+        <member name="M:fiap_grupo57_fase1.Controllers.ContatosController.GetContatos(System.Int32,System.String)">
+            <summary>
+            Obtém uma lista de contatos filtrados pelo DDD.
+            </summary>
+            <param name="ddd">O DDD da região.</param>
+            <param name="regiao">A região opcional para filtrar os contatos.</param>
+            <returns>Uma lista de contatos.</returns>
+        </member>
+        <member name="M:fiap_grupo57_fase1.Controllers.ContatosController.PostContato(fiap_grupo57_fase1.Models.Requests.ContatosPostRequest)">
+            <summary>
+            Adiciona um novo contato.
+            </summary>
+            <param name="contato">Os dados do contato a ser adicionado.</param>
+            <returns>O contato adicionado.</returns>
+        </member>
+        <member name="M:fiap_grupo57_fase1.Controllers.ContatosController.PutContato(fiap_grupo57_fase1.Models.Requests.ContatosPutRequest)">
+            <summary>
+            Atualiza um contato existente.
+            </summary>
+            <param name="contato">Os dados do contato a ser atualizado.</param>
+        </member>
+        <member name="M:fiap_grupo57_fase1.Controllers.ContatosController.DeleteContato(System.Int32)">
+            <summary>
+            Exclui um contato pelo id.
+            </summary>
+            <param name="id">O id do contato a ser excluído.</param>
+        </member>
+    </members>
+</doc>
